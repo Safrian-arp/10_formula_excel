@@ -1,5 +1,5 @@
 # 10_formula_excel
-Top 10 Excel Formula untuk DAta Analysis yang sering di pakai
+Top 10 Excel Formula untuk data Analysis yang sering di pakai
 
 Disini terdapat 10 formula yang dapat digunakan 
 1.Vlookup
